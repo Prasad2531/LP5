@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//Cmd: g++ assignment1.cpp -lgomp -o assignment1.exe
 
 class Graph{
     public:
